@@ -1,0 +1,15 @@
+{
+  "images" : [
+      {
+           "filename" : "iphone7-2.png",
+           "idiom" : "universal"
+         }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.067100000000000004
+  }
+}

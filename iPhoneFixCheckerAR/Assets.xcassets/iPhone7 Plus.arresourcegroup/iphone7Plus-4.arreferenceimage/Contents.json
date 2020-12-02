@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "iphone7Plus-4.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 0.077899999999999997
+  }
+}
